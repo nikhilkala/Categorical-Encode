@@ -1,3 +1,8 @@
+******************
+Categorical-Encode
+******************
+
+**Project Description**
 
 
 This package can be used to convert dataset into numerical categorical data.
