@@ -24,7 +24,7 @@ This can be utilized for the pre-processing of various kinds of data for many Ma
 
 
 - **dataframe**: The Input DataFrame(X) which you want to categorically encode.
-- **normalize**: This parameter determines if it will be between 0-1(1 included) or 1 to no. of classes (1 - no. of classes). default:False
+- **normalize**: This parameter determines if data will be normalized (if true) or will remain in discrete classes. default:False
 - **drop_columns**:  This specifies the dataframe columns that need to be dropped as they are useless. default: No Columns
 - **drop_na**: This drops empty values (NaN) if is set to True. default: False
 - **target_columns**: This creates the target DataFrame(Y) without applying any Encoding. default: No Columns
