@@ -6,8 +6,7 @@ setup(
   license='MIT',
   description = 'This Library converts categorical data of any kind {integer, float, strings} into discrete values{1,2,3... # Classes}.',
   long_description ="""\
-  This package can be used to convert dataset into numerical categorical data.
-This can be utilized for the pre-processing of various kinds of data for many Machine Learning Models. There are various features available such as normalizing the data to make the data more useful for the model. This function will work on any kind of data in the DataFrame.
+  This package can be used to convert dataset into numerical categorical data.This can be utilized for the pre-processing of various kinds of data for many Machine Learning Models.There are various features available such as normalizing the data to make the data more useful for the model. This function will work on any kind of data in the DataFrame.
 
 
 **IMPORT:**
