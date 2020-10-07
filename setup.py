@@ -14,9 +14,7 @@ This can be utilized for the pre-processing of various kinds of data for many Ma
 
 
 
-
 **from categorical_encode.categorical import categorical**
-
 
 
 
